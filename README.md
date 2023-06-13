@@ -10,3 +10,6 @@ A todo app to practice React.
 - CSS
 - HMTL
 
+## Demo 
+
+<img src="/public/mobile (3) (1).gif" width="80%" />
